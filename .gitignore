@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+project/target
+project/project/target
+.idea
+.bsp
+target
